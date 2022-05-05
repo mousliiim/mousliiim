@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, My name is Mouslim ! 😄</h1>
-<h3 align="center">Future Full Stack Web Developer 💻🚀 | Trade & Sales Experience 👨🏻‍💼 | Language 🇫🇷 🇬🇧 🇷🇺</h3>
+<h3 align="center">Future Full Stack Developer 💻🚀 | Trade & Sales Experience 👨🏻‍💼 | Language 🇫🇷 🇬🇧 🇷🇺</h3>
 
 <h4 align="center">
  💬 Ask me and if I have the answer I will help you with pleasure 😄
