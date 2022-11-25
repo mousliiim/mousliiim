@@ -6,10 +6,6 @@
 <h3 align="center">Student of 42 Paris - Future Full Stack Developer 💻🚀 | Trade & Sales Experience 👨🏻‍💼 | Language 🇫🇷 🇬🇧 🇷🇺</h3>
 <p align="center"> <a href="https://profile.intra.42.fr/users/mmourdal"><img src="https://badge42.vercel.app/api/v2/claeixas400540fmd89rtzoil/stats?cursusId=21&coalitionId=45" alt="Mmourdal 42 STATS" /></a></p>
 <h4 align="center">
- 💬 Ask me and if I have the answer I will help you with pleasure 😄
-
- ✉️ How to reach me **mouslim.mourdalov@gmail.com**
-
  ⚡ My Hobbies : **Reading , Netflix , MMA & Grappling 🥊🥋**
 </h4>
 
