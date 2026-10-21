@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, My name is Mouslim ! 😄</h1>
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRjcHV4enRmZHN1ZWtmaWJva2x4NHZtMGR4MHRhNWI0ZTdpMmJiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dk57URqjqjHjNGHeMV/giphy.gif" width="600" height="300"/></p>
-<h3 align="center">Student at @42School Paris 💻 | Languages 🇫🇷 🇬🇧 🇷🇺</h3>
-<h4 align="center">
- ⚡ My Hobbies : Reading , Netflix , MMA & Grappling 🥊🥋
-</h4>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/mouslim-mourdalov-95863320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouslim_mourdalov" height="30" width="40" /></a>
-<a href="https://instagram.com/mousliiim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mousliiim" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="center">Skills with :</h3>
-<p align="center">
-<img width=50 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg">
-<img width=50 src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-line.svg">
-<img width=50 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg">
-<img width=50 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg">
-<img width=50 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
-<img width=50 src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-<img width=50 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
-<img width=50 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-<img width=50 src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
-</p>
+# Hey, I'm Mouslim 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mousliiim&show_icons=true&locale=en&layout=compact" alt="mousliiim" />
-</p>
+**Full-Stack Developer · AI & Product Engineering**
+Building useful, well-designed products — from idea to production.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=17&amp;duration=3000&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Full-Stack+Development;AI-Powered+Products;Always+curious.+Always+building." alt="Animated introduction" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouslim-mourdalov-95863320b/)
+[![Instagram](https://img.shields.io/badge/Instagram-222222?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mousliiim)
+
+</div>
+
+### About me
+
+I'm a full-stack developer based in France, passionate about **AI, thoughtful design, and building real-world products**.
+
+- **Former Full-Stack Developer at Veepee Innovation Lab** — worked on AI-powered tools and semantic search.
+- **42 Paris alumnus** — a hands-on engineering background built through projects and problem-solving.
+- **Currently** — exploring LLM-powered experiences and creating independent products.
+
+**Beyond code:** Philosophy, MMA & grappling 🥋  
+**Languages:** French · English · Russian
+
+---
+
+<div align="center"><sub>Always curious. Always building.</sub></div>
